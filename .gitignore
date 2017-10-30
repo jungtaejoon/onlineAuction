@@ -1,0 +1,6 @@
+# for js
+node_modules/
+*.bundle.js*
+
+# Log file
+*.log
